@@ -1,0 +1,11 @@
+I've been playing with resque and hpricot for a project that needs to parse heavy xml files.  I've read alot of stuff online to help me start the project.  This is my way of giving back.  Here is a sample code using the following:
+
+  - resque with redistogo  
+  - hpricot
+  - rails 3.0.3
+  - rvm with ruby-1.8.7-p302 
+
+
+Reference:
+ http://blog.redistogo.com/2010/07/26/resque-with-redis-to-go/
+ http://railstips.org/blog/archives/2006/12/09/parsing-xml-with-hpricot/
